@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Surya 
-- 👀 I’m interested in tinkering with Embedded boards and kits
-- 🌱 I’m currently doing Masters in Electrical and Microsystems Engineering
-- 💞️ I’m looking to collaborate on projects that spark my interest hehehee
+
 - 📫 You can reach me at suryatejach202@gmail.com
 
 <!---
