@@ -1,12 +1,23 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300?text=Welcome+to+My+Profile" alt="Profile Banner" style="max-width:100%; border-radius: 8px; box-shadow: 0px 4px 12px rgba(0,0,0,0.1);" />
+  <img src="https://via.placeholder.com/1200x300?text=Welcome+to+My+Professional+Profile" alt="Professional Banner" style="max-width:100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
 </p>
 
-# Hi, I'm Surya Chilukuri 👋
+# Hello, I'm Devi Surya Teja Chilukuri 👋
 
-I'm an **Embedded and PLC Programmer** based in Germany with a passion for learning RTOS and Python.  
-Feel free to [contact me](mailto:suryachilukurii@protonmail.com).
+I'm a **Hardware Engineer & Embedded Systems Professional** based in Regensburg, Germany.  
+With hands-on experience in designing smart vending systems, automotive power solutions, and embedded firmware development, I thrive on transforming innovative ideas into real-world solutions.
+
+---
+
+## Professional Snapshot
+
+- **Hardware Engineer @ NAF GmbH**  
+  Leading design and programming for automated vending machines and IoT-enabled food systems.
+- **Pre-development Intern @ Vitesco Technologies AG**  
+  Developed power control solutions and innovative MOSFET algorithms for enhanced automotive supply stability.
+- **BMS & Embedded Systems Expertise**  
+  Experience in testing and optimizing Battery Management Systems and developing embedded firmware across multiple platforms.
 
 ---
 
@@ -23,7 +34,7 @@ Feel free to [contact me](mailto:suryachilukurii@protonmail.com).
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="48" height="48">
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" alt="GNU Bash" width="48" height="48">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" alt="Bash" width="48" height="48">
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" alt="VS Code" width="48" height="48">
@@ -51,13 +62,13 @@ Feel free to [contact me](mailto:suryachilukurii@protonmail.com).
 
 <p align="center">
   <a href="https://github.com/dst202">
-    <img src="https://github-readme-stats.vercel.app/api?username=dst202&show_icons=true&hide_border=true&theme=material-palenight" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=dst202&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/dst202">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dst202&hide_border=true&theme=material-palenight" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dst202&hide_border=true&theme=default" alt="GitHub Streak">
   </a>
 </p>
 
@@ -75,7 +86,7 @@ Feel free to [contact me](mailto:suryachilukurii@protonmail.com).
   <a href="https://github.com/dst202" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="32" height="32">
   </a>
-  <a href="https://www.linkedin.com/in/Suryachilukuri" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/suryachilukuri" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="32" height="32">
   </a>
   <a href="https://www.x.com/surya_chilukur" target="_blank" rel="noreferrer">
