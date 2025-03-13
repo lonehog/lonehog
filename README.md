@@ -1,95 +1,46 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300?text=Welcome+to+My+Professional+Profile" alt="Professional Banner" style="max-width:100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+  <a href="https://suryachilukuri.win">
+    <img width="80%" alt="Hello, I'm Devi Surya Teja Chilukuri. Hardware Engineer & Embedded Systems Professional" src="https://via.placeholder.com/800x200?text=Hello,+I%27m+Surya+Chilukuri" />
+  </a>
 </p>
 
-# Hello, I'm Devi Surya Teja Chilukuri 👋
+<br />
 
-I'm a **Hardware Engineer & Embedded Systems Professional** based in Regensburg, Germany.  
-With hands-on experience in designing smart vending systems, automotive power solutions, and embedded firmware development, I thrive on transforming innovative ideas into real-world solutions.
+I'm a passionate **Hardware Engineer & Embedded Systems Professional** based in Regensburg, Germany 🇩🇪
+
+**About me**
+
+- 💼 Currently a Hardware Engineer at [NAF GmbH](https://nafgmbh.example) building innovative vending and IoT systems.
+- 🔧 Former Intern at [Vitesco Technologies AG](https://vitesco.com) and experienced in Battery Management Systems, embedded firmware, and automation.
+- 🚀 Driven by transforming complex challenges into smart, efficient embedded solutions.
+- 💬 Feel free to reach out for collaboration or to discuss cutting-edge embedded tech!
+
+<code><img height="20" alt="C" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
+<code><img height="20" alt="C++" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
+<code><img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="20" alt="RTOS" src="https://via.placeholder.com/20?text=RTOS"></code>
+<code><img height="20" alt="PLC" src="https://via.placeholder.com/20?text=PLC"></code>
 
 ---
 
-## Professional Snapshot
+| <a href="https://github.com/dst202"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dst202&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Surya's GitHub Stats" /></a> | <a href="https://github.com/dst202"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dst202&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-- **Hardware Engineer @ NAF GmbH**  
-  Leading design and programming for automated vending machines and IoT-enabled food systems.
-- **Pre-development Intern @ Vitesco Technologies AG**  
-  Developed power control solutions and innovative MOSFET algorithms for enhanced automotive supply stability.
-- **BMS & Embedded Systems Expertise**  
-  Experience in testing and optimizing Battery Management Systems and developing embedded firmware across multiple platforms.
+#### Top Repositories
 
----
+<a href="https://github.com/dst202/JTAGprobe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dst202&repo=JTAGprobe&theme=buefy" />
+</a>
+<a href="https://github.com/dst202/Fiber-optic-SFP-to-USB-Adapter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dst202&repo=Fiber-optic-SFP-to-USB-Adapter&theme=buefy" />
+</a>
 
-## Skills
+<br />
+<br />
 
-<p align="center">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" width="48" height="48">
-  </a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" width="48" height="48">
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="48" height="48">
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" alt="Bash" width="48" height="48">
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" alt="VS Code" width="48" height="48">
-  </a>
-  <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" alt="Vim" width="48" height="48">
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" width="48" height="48">
-  </a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" width="48" height="48">
-  </a>
-  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" width="48" height="48">
-  </a>
-  <a href="https://store.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" width="48" height="48">
-  </a>
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/dst202">
-    <img src="https://github-readme-stats.vercel.app/api?username=dst202&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/dst202">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dst202&hide_border=true&theme=default" alt="GitHub Streak">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/dst202">
-    <img src="https://ghchart.rshah.org/dst202" alt="GitHub Commit Graph" style="border-radius: 8px;">
-  </a>
-</p>
-
----
-
-## Connect with Me
-
-<p align="center">
-  <a href="https://github.com/dst202" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="32" height="32">
-  </a>
-  <a href="https://www.linkedin.com/in/suryachilukuri" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="32" height="32">
-  </a>
-  <a href="https://www.x.com/surya_chilukur" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="Twitter" width="32" height="32">
-  </a>
-</p>
+<a href="https://twitter.com/surya_chilukur">
+  <img align="right" alt="Surya Chilukuri | Twitter" width="21px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/suryachilukuri">
+  <img align="right" alt="Surya Chilukuri | LinkedIn" width="21px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+</a>
