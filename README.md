@@ -14,6 +14,8 @@ I'm a passionate **Hardware Engineer & Embedded Systems Professional** based in 
 - 🔧 Former Intern at [Vitesco Technologies AG](https://vitesco.com) and experienced in Battery Management Systems, embedded firmware, and automation.
 - 🚀 Driven by transforming complex challenges into smart, efficient embedded solutions.
 - 💬 Feel free to reach out for collaboration or to discuss edge embedded tech!
+
+  
 <code><img height="20" alt="C" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
 <code><img height="20" alt="C++" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
 <code><img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
