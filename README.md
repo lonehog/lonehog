@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://suryachilukuri.win">
-    <img width="80%" alt="Hello, I'm Devi Surya Teja Chilukuri. Hardware Engineer & Embedded Systems Professional" src="https://via.placeholder.com/800x200?text=Hello,+I%27m+Surya+Chilukuri" />
+    <img width="80%" alt="Hello, I'm Surya Chilukuri." src="https://via.placeholder.com/800x200?text=Hello,+I%27m+Surya+Chilukuri" />
   </a>
 </p>
 
