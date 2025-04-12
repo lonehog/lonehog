@@ -6,7 +6,7 @@
 
 <br />
 
-Working on  **Hardware & Embedded devices **  from Germany 🇩🇪
+Working on  **Hardware & Embedded devices**  from Germany 🇩🇪
 
   
 <code><img height="20" alt="C" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
