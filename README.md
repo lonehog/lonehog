@@ -26,10 +26,10 @@ Working on  **Hardware & Embedded devices **  from Germany 🇩🇪
 
 #### Top Repositories
 
-<a href="https://github.com/dst202/JTAGprobe">
+<a href="https://github.com/lonehog/JTAGprobe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dst202&repo=JTAGprobe&theme=buefy" />
 </a>
-<a href="https://github.com/dst202/Fiber-optic-SFP-to-USB-Adapter">
+<a href="https://github.com/lonehog/Fiber-optic-SFP-to-USB-Adapter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dst202&repo=Fiber-optic-SFP-to-USB-Adapter&theme=buefy" />
 </a>
 
