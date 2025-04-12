@@ -33,8 +33,8 @@ Working on  **Hardware & Embedded devices**  from Germany 🇩🇪
 <br />
 
 <a href="https://twitter.com/surya_chilukur">
-  <img align="right" alt="Surya Chilukuri | Twitter" width="21px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+  <img align="left" alt="Surya Chilukuri | Twitter" width="21px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/suryachilukuri">
-  <img align="right" alt="Surya Chilukuri | LinkedIn" width="21px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+  <img align="left" alt="Surya Chilukuri | LinkedIn" width="21px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
 </a>
