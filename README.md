@@ -6,14 +6,7 @@
 
 <br />
 
-I'm a passionate **Hardware Engineer & Embedded Systems Professional** based in Regensburg, Germany 🇩🇪
-
-**About me**
-
-- 💼 Currently a Hardware Engineer at [NAF GmbH](https://nafgmbh.example) building innovative vending and IoT systems.
-- 🔧 Former Intern at [Vitesco Technologies AG](https://vitesco.com) and experienced in Battery Management Systems, embedded firmware, and automation.
-- 🚀 Driven by transforming complex challenges into smart, efficient embedded solutions.
-- 💬 Feel free to reach out for collaboration or to discuss edge embedded tech!
+Working on  **Hardware & Embedded devices **  from Germany 🇩🇪
 
   
 <code><img height="20" alt="C" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
