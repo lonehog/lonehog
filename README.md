@@ -21,16 +21,16 @@ Working on  **Hardware & Embedded devices**  from Germany 🇩🇪
 
 ---
 
-| <a href="https://github.com/dst202"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dst202&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Surya's GitHub Stats" /></a> | <a href="https://github.com/dst202"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dst202&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/lonehog"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lonehog&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Surya's GitHub Stats" /></a> | <a href="https://github.com/lonehog"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonehog&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 <a href="https://github.com/lonehog/JTAGprobe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dst202&repo=JTAGprobe&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonehog&repo=JTAGprobe&theme=buefy" />
 </a>
 <a href="https://github.com/lonehog/Fiber-optic-SFP-to-USB-Adapter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dst202&repo=Fiber-optic-SFP-to-USB-Adapter&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonehog&repo=Fiber-optic-SFP-to-USB-Adapter&theme=buefy" />
 </a>
 
 <br />
