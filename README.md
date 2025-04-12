@@ -29,7 +29,7 @@ Working on  **Hardware & Embedded devices**  from Germany 🇩🇪
 <a href="https://github.com/lonehog/JTAGprobe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonehog&repo=JTAGprobe&theme=buefy" />
 </a>
-<a href="https://github.com/lonehog/Fiber-optic-SFP-to-USB-Adapter">
+<a href="https://github.com/lonehog/SFP-USB">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonehog&repo=Fiber-optic-SFP-to-USB-Adapter&theme=buefy" />
 </a>
 
