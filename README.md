@@ -16,7 +16,7 @@ Embedded systems & Homelabbing
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonehog&repo=JTAGprobe&theme=transparent" />
 </a>
 <a href="https://github.com/suryachilukuri/Fiber-optic-SFP-to-USB-Adapter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonehog&repo=SFP-USB&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonehog&repo=SFP-USB&theme=transparent" />
 </a>
 
 ## Socials
