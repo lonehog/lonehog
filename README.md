@@ -1,6 +1,9 @@
-# Hello, I'm Surya Chilukuri
 
-Working on **Hardware & Embedded Devices** from Germany 🇩🇪
+## About Me
+Hello, I'm Surya Chilukuri
+
+Embedded systems engineer specializing in hardware interfacing and real-time systems. I enjoy building tools and devices that bridge the gap between hardware and software.
+
 
 <code><img height="20" alt="C" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
 <code><img height="20" alt="C++" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
@@ -9,8 +12,7 @@ Working on **Hardware & Embedded Devices** from Germany 🇩🇪
 <code><img height="20" alt="MATLAB" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
 <code><img height="20" alt="Linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
 
-## About Me
-Embedded systems engineer specializing in hardware interfacing and real-time systems. I enjoy building tools and devices that bridge the gap between hardware and software.
+
 
 ## Top Repositories
 
