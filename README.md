@@ -1,10 +1,7 @@
 # Hello, I'm Surya Chilukuri
 
-<br />
+Working on **Hardware & Embedded Devices** from Germany 🇩🇪
 
-Working on  **Hardware & Embedded devices**
-
-  
 <code><img height="20" alt="C" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
 <code><img height="20" alt="C++" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
 <code><img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
@@ -12,25 +9,20 @@ Working on  **Hardware & Embedded devices**
 <code><img height="20" alt="MATLAB" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
 <code><img height="20" alt="Linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
 
+## About Me
+I'm a passionate embedded systems engineer specializing in hardware interfacing and real-time systems. I enjoy building tools and devices that bridge the gap between hardware and software.
 
+## Top Repositories
 
-
----
-
-| <a href="https://github.com/lonehog"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lonehog&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Surya's GitHub Stats" /></a> |
-| ------------- | ------------- |
-
-#### Top Repositories
-
-<a href="https://github.com/lonehog/JTAGprobe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonehog&repo=JTAGprobe&theme=buefy" />
+<a href="https://github.com/suryachilukuri/JTAGprobe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suryachilukuri&repo=JTAGprobe&theme=buefy" />
+</a>
+<a href="https://github.com/suryachilukuri/Fiber-optic-SFP-to-USB-Adapter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suryachilukuri&repo=Fiber-optic-SFP-to-USB-Adapter&theme=buefy" />
 </a>
 
-
-<br />
-<br />
-
-<a href="https://twitter.com/surya_chilukur">
+## Connect with Me
+<a href="https://twitter.com/suryachilukuri">
   <img align="left" alt="Surya Chilukuri | Twitter" width="21px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/suryachilukuri">
