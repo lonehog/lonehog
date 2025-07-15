@@ -13,10 +13,10 @@ Embedded systems & Homelabbing
 ## Repositories
 
 <a href="https://github.com/suryachilukuri/JTAGprobe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonehog&repo=JTAGprobe&theme=minimal" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonehog&repo=JTAGprobe&theme=transparent" />
 </a>
 <a href="https://github.com/suryachilukuri/Fiber-optic-SFP-to-USB-Adapter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonehog&repo=SFP-USB&theme=minimal" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonehog&repo=SFP-USB&theme=dark" />
 </a>
 
 ## Socials
