@@ -2,7 +2,7 @@
 
 <br />
 
-Working on  **Hardware & Embedded devices**  from Germany 🇩🇪
+Working on  **Hardware & Embedded devices**
 
   
 <code><img height="20" alt="C" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
@@ -17,7 +17,7 @@ Working on  **Hardware & Embedded devices**  from Germany 🇩🇪
 
 ---
 
-| <a href="https://github.com/lonehog"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lonehog&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Surya's GitHub Stats" /></a> | <a href="https://github.com/lonehog"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonehog&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/lonehog"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lonehog&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Surya's GitHub Stats" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
@@ -25,9 +25,7 @@ Working on  **Hardware & Embedded devices**  from Germany 🇩🇪
 <a href="https://github.com/lonehog/JTAGprobe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonehog&repo=JTAGprobe&theme=buefy" />
 </a>
-<a href="https://github.com/lonehog/SFP-USB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonehog&repo=Fiber-optic-SFP-to-USB-Adapter&theme=buefy" />
-</a>
+
 
 <br />
 <br />
