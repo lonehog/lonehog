@@ -1,6 +1,5 @@
 
-## About Me
-Hello, I'm Surya Chilukuri
+##Hello, I'm Surya Chilukuri
 
 Embedded systems & Homelabbing
 
@@ -11,7 +10,7 @@ Embedded systems & Homelabbing
 
 
 
-## Top Repositories
+## Repositories
 
 <a href="https://github.com/suryachilukuri/JTAGprobe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonehog&repo=JTAGprobe&theme=minimal" />
@@ -20,7 +19,7 @@ Embedded systems & Homelabbing
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonehog&repo=SFP-USB&theme=minimal" />
 </a>
 
-## Connect with Me
+## Socials
 <a href="https://twitter.com/suryachilukuri">
   <img align="left" alt="Surya Chilukuri | Twitter" width="21px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
 </a>
