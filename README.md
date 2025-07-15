@@ -18,7 +18,7 @@ I'm a passionate embedded systems engineer specializing in hardware interfacing 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonehog&repo=JTAGprobe&theme=minimal" />
 </a>
 <a href="https://github.com/suryachilukuri/Fiber-optic-SFP-to-USB-Adapter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonehog&repo=Fiber-optic-SFP-to-USB-Adapter&theme=minimal" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonehog&repo=SFP-USB&theme=minimal" />
 </a>
 
 ## Connect with Me
