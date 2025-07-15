@@ -10,7 +10,7 @@ Working on **Hardware & Embedded Devices** from Germany 🇩🇪
 <code><img height="20" alt="Linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
 
 ## About Me
-I'm a passionate embedded systems engineer specializing in hardware interfacing and real-time systems. I enjoy building tools and devices that bridge the gap between hardware and software.
+Embedded systems engineer specializing in hardware interfacing and real-time systems. I enjoy building tools and devices that bridge the gap between hardware and software.
 
 ## Top Repositories
 
