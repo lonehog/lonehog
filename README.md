@@ -1,7 +1,7 @@
 
 ## Hello, I'm Surya Chilukuri
 I work on Embedded system design and their software development.  
-When I am free I tinker with Selfhosting ,Homelabbing and 3D priting
+When I am free I tinker with Selfhosting ,Homelabbing and 3D printing
 
 
 <code><img height="20" alt="C" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
